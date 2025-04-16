@@ -1,0 +1,21 @@
+{
+    "name": "dakanbe/singleton",
+    "description": "Simple Singleton Implementation",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dakanbe\\Singleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dhean Kasanda",
+            "email": "dheanka73.io@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1"
+    }
+}
