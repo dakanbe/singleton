@@ -1,6 +1,7 @@
 /.fleet
 /.idea
+/.nova
 /.vscode
 /.zed
 
-vendor
+/vendor/
